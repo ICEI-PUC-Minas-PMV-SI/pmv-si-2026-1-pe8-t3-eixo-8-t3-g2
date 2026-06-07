@@ -1,6 +1,6 @@
 # 4. PETI — Plano Estratégico de Tecnologia da Informação
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 ## 4.1 Planejamento estratégico de TI
 
@@ -144,4 +144,4 @@ Com essas práticas, a empresa poderá manter a organização dos seus dados, au
 
 ---
 
-[← 3. Plano de IC](03-plano-ic-escopo.md) · [Voltar ao índice](README.md) · [Próximo: 5. Dashboard →](05-dashboard.md)
+[← 3. Plano de IC](03-plano-ic-escopo.md) · [Voltar ao índice](../README.md) · [Próximo: 5. Dashboard →](05-dashboard.md)

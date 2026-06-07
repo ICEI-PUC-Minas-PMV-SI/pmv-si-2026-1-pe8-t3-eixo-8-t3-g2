@@ -1,6 +1,6 @@
 # 2. Identificação, Análise e Estruturação das Necessidades de IC
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 ## 2.1 Mapeamento das decisões estratégicas
 
@@ -234,4 +234,4 @@ A empresa já possui uma base relevante de dados capaz de sustentar a implementa
 
 ---
 
-[← 1. Introdução](01-introducao.md) · [Voltar ao índice](README.md) · [Próximo: 3. Plano de IC →](03-plano-ic-escopo.md)
+[← 1. Introdução](01-introducao.md) · [Voltar ao índice](../README.md) · [Próximo: 3. Plano de IC →](03-plano-ic-escopo.md)

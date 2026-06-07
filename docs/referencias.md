@@ -1,6 +1,6 @@
 # Referências
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 **AUTO PEÇAS INCONFIDENTES LTDA.** Dados internos extraídos do sistema ERP para análise de vendas, estoque, clientes e desempenho comercial. Contagem, 2026.
 
@@ -16,4 +16,4 @@
 
 ---
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)

@@ -18,9 +18,28 @@ A solução proposta envolve a criação de um sistema de Business Intelligence 
 * Guilherme Martins Fialho
 * Jean Gabriel da Silva Lima
 * Lívia Santos Morais
-* Vinicius Menezes
+* Vinicius Menezes Gomes
 
 ## Orientador
 
 * Nome completo do professor 1
 
+## Sumário
+
+| Seção | Conteúdo |
+|---|---|
+| [1. Introdução](docs/01-introducao.md) | Apresentação da empresa, análise de mercado (SWOT), análise de processos e sistema atual |
+| [2. Necessidades de IC](docs/02-necessidades-ic.md) | Decisões estratégicas, decisão-chave, KIT, KIQs, requisitos informacionais, fontes de dados, compliance/LGPD |
+| [3. Plano de IC e Escopo](docs/03-plano-ic-escopo.md) | KIQs respondidas com dashboards, modelagem de dados, planejamento dos dashboards, versionamento, construção e automação |
+| [4. PETI](docs/04-peti.md) | Planejamento estratégico de TI, auditoria e governança simplificada |
+| [5. Dashboard de BI](docs/05-dashboard.md) | Páginas do dashboard final com prints e leituras executivas |
+| [6. Apresentação final](docs/06-apresentacao-final.md) | Resumo dos slides da apresentação |
+| [Referências](docs/referencias.md) | Bibliografia |
+
+## Artefatos originais
+
+Disponíveis em [`docs/assets/`](docs/assets/) para download:
+
+- [TCC completo (.docx)](docs/assets/tcc-completo.docx)
+- [Apresentação final (.pptx)](docs/assets/apresentacao-final.pptx)
+- [Dashboard exportado (.pdf)](docs/assets/dashboard-completo.pdf)

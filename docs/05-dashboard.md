@@ -1,6 +1,6 @@
 # 5. Dashboard de BI — Painel de Performance
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 Esta seção apresenta o **Painel de Performance da Auto Peças Inconfidentes**, dividido em 6 páginas temáticas que respondem às KIQs definidas na [seção 2](02-necessidades-ic.md).
 
@@ -201,4 +201,4 @@ O faturamento total de **R$ 652.669** é dominado pelo varejo (89,9%). O **2º t
 
 ---
 
-[← 4. PETI](04-peti.md) · [Voltar ao índice](README.md) · [Próximo: 6. Apresentação →](06-apresentacao-final.md)
+[← 4. PETI](04-peti.md) · [Voltar ao índice](../README.md) · [Próximo: 6. Apresentação →](06-apresentacao-final.md)

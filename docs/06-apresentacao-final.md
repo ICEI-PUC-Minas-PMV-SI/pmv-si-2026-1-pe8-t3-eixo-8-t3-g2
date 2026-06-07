@@ -1,6 +1,6 @@
 # 6. Apresentação Final
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 Resumo dos slides da apresentação final do projeto.
 
@@ -143,4 +143,4 @@ O projeto garante **conformidade total com a LGPD**, assegurando que todos os da
 
 ---
 
-[← 5. Dashboard](05-dashboard.md) · [Voltar ao índice](README.md) · [Próximo: Referências →](referencias.md)
+[← 5. Dashboard](05-dashboard.md) · [Voltar ao índice](../README.md) · [Próximo: Referências →](referencias.md)

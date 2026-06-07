@@ -1,6 +1,6 @@
 # 1. Introdução
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 ## 1.1 Apresentação da empresa
 
@@ -95,4 +95,4 @@ Quanto às funcionalidades de análise, o sistema disponibiliza relatórios oper
 
 ---
 
-[← Voltar ao índice](README.md) · [Próximo: 2. Necessidades de IC →](02-necessidades-ic.md)
+[← Voltar ao índice](../README.md) · [Próximo: 2. Necessidades de IC →](02-necessidades-ic.md)

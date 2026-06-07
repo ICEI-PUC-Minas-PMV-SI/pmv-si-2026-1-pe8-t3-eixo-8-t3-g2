@@ -1,6 +1,6 @@
 # 3. Conexão com o Plano de IC e Definição do Escopo
 
-[← Voltar ao índice](README.md)
+[← Voltar ao índice](../README.md)
 
 Este projeto tem como objetivo estruturar uma solução de **Business Intelligence** que transforme dados operacionais da empresa em informações estratégicas para tomada de decisão. A proposta consiste na construção de dashboards interativos que possibilitem a análise de desempenho de vendas, comportamento de clientes, lucratividade e sazonalidade, utilizando dados extraídos do sistema ERP.
 
@@ -169,4 +169,4 @@ Durante a construção foram realizados testes de consistência e validação vi
 
 ---
 
-[← 2. Necessidades de IC](02-necessidades-ic.md) · [Voltar ao índice](README.md) · [Próximo: 4. PETI →](04-peti.md)
+[← 2. Necessidades de IC](02-necessidades-ic.md) · [Voltar ao índice](../README.md) · [Próximo: 4. PETI →](04-peti.md)
