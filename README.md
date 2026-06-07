@@ -22,7 +22,7 @@ A solução proposta envolve a criação de um sistema de Business Intelligence 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Simone Fernandes Queiroz
 
 ## Sumário
 
