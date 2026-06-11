@@ -144,4 +144,4 @@ Com essas práticas, a empresa poderá manter a organização dos seus dados, au
 
 ---
 
-[← 3. Plano de IC](03-plano-ic-escopo.md) · [Voltar ao índice](../README.md) · [Próximo: 5. Dashboard →](05-dashboard.md)
+[← 3. Plano de IC](03-plano-ic-escopo.md) · [Voltar ao índice](../README.md) · [Próximo: 5. Relatório Final →](05-relatorio-final.md)

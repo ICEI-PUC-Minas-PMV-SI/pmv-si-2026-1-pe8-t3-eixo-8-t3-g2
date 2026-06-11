@@ -1,4 +1,4 @@
-# 6. Apresentação Final
+# 7. Apresentação Final
 
 [← Voltar ao índice](../README.md)
 
@@ -143,4 +143,4 @@ O projeto garante **conformidade total com a LGPD**, assegurando que todos os da
 
 ---
 
-[← 5. Dashboard](05-dashboard.md) · [Voltar ao índice](../README.md) · [Próximo: Referências →](referencias.md)
+[← 6. Dashboard](06-dashboard.md) · [Voltar ao índice](../README.md) · [Próximo: Referências →](referencias.md)

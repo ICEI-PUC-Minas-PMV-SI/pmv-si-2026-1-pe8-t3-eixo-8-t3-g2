@@ -32,8 +32,9 @@ A solução proposta envolve a criação de um sistema de Business Intelligence 
 | [2. Necessidades de IC](docs/02-necessidades-ic.md) | Decisões estratégicas, decisão-chave, KIT, KIQs, requisitos informacionais, fontes de dados, compliance/LGPD |
 | [3. Plano de IC e Escopo](docs/03-plano-ic-escopo.md) | KIQs respondidas com dashboards, modelagem de dados, planejamento dos dashboards, versionamento, construção e automação |
 | [4. PETI](docs/04-peti.md) | Planejamento estratégico de TI, auditoria e governança simplificada |
-| [5. Dashboard de BI](docs/05-dashboard.md) | Páginas do dashboard final com prints e leituras executivas |
-| [6. Apresentação final](docs/06-apresentacao-final.md) | Resumo dos slides da apresentação |
+| [5. Relatório Final e Consolidação](docs/05-relatorio-final.md) | Consolidação das etapas, síntese das análises, proposta consolidada, monitoramento de TI, recomendações e considerações finais |
+| [6. Dashboard de BI](docs/06-dashboard.md) | Páginas do dashboard final com prints e leituras executivas |
+| [7. Apresentação final](docs/07-apresentacao-final.md) | Resumo dos slides da apresentação |
 | [Referências](docs/referencias.md) | Bibliografia |
 
 ## Artefatos originais

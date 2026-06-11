@@ -1,4 +1,4 @@
-# 5. Dashboard de BI — Painel de Performance
+# 6. Dashboard de BI — Painel de Performance
 
 [← Voltar ao índice](../README.md)
 
@@ -201,4 +201,4 @@ O faturamento total de **R$ 652.669** é dominado pelo varejo (89,9%). O **2º t
 
 ---
 
-[← 4. PETI](04-peti.md) · [Voltar ao índice](../README.md) · [Próximo: 6. Apresentação →](06-apresentacao-final.md)
+[← 5. Relatório Final](05-relatorio-final.md) · [Voltar ao índice](../README.md) · [Próximo: 7. Apresentação →](07-apresentacao-final.md)
